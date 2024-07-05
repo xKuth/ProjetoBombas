@@ -10,10 +10,9 @@ body{
 }
 
 header{
-    box-shadow: 10px 1px rgba(0, 0, 0, 0.755);
     text-align: center;
-    margin: auto;
-    
+    margin: auto; 
+    box-shadow: 10px 1px rgba(0, 0, 0, 0.755);
 }
 
 h1#princ{

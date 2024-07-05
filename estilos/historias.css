@@ -11,6 +11,7 @@ body{
 header{
     padding-left: 15%;
     font-family: "patua One", serif;
+    box-shadow: 10px 1px rgba(0, 0, 0, 0.755);
 }
 
 header > h1 > span{
