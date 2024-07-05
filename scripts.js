@@ -1,4 +1,5 @@
-function descrição(){
-    mudar = document.getElementsByClassName('titu').addEventListener("click")
+function abrir_historia(){
+    mudar = document.getElementsByClassName('titu')
+    Txt = 
 }
-descrição
+
